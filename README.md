@@ -29,7 +29,7 @@ This repository will contain all my daily solutions, notes, and learning progres
 💻 Language Used :
       c++
 
-| Day     | Topic          | Problems                                   |
+| Day     | Topic          | Problems                                                                |
 | 01      | Arrays         | 
 
 

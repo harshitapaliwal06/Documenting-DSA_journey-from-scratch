@@ -1,4 +1,6 @@
-DAY 1 Breakdown
+DAY 1 Breakdown 
+
+
 a. Largest Element
 
 Brute Approach: First idea was to sort the array and pick the last element, but time complexity was O(n log n)

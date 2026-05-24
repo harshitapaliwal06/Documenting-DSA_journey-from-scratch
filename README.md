@@ -28,6 +28,9 @@ This repository will contain all my daily solutions, notes, and learning progres
 
 💻 Language Used :
       c++
+Topics covered : 1. Array basics :  a. Largest element b.second largest  c. check sorted  d. reverse array 
+
+ 
 
 
 

@@ -1,35 +1,54 @@
-# 65_days_DSA-challenge
-fourth-year CS student taking on a 65 Days DSA Challenge 🚀 Let’s see how consistent I can stay through this journey.
+# 🧩 DSA Journey — From Scratch
+
+Hi! I'm Harshita, a final-year Computer Science student documenting my journey of 
+learning **Data Structures and Algorithms** from the ground up.
+
+This repository is where I track my daily practice — the concepts I learn, 
+the problems I solve, and the patterns I discover along the way. 
+Consistency over perfection. 💪
+
+---
+
+## 🎯 Why This Repo?
+
+Strong DSA fundamentals are essential for problem-solving and technical interviews. 
+This is my public commitment to learning in the open — building this skill 
+one concept, one problem at a time.
+
+---
+
+## 📚 Topics Covered So Far
 
 
-🚀 65 DAYS OF DSA CHALLENGE
+- *(updated as I progress)*
 
-📌 About This Challenge
+---
 
-Welcome to my **#65DaysOfDSA** challenge repository.
+## 📅 Progress Log
 
-For the next **65 days**, I will consistently solve Data Structures & Algorithms problems to improve:
+| Day | Date | Topic | Notes |
+|-----|------|-------|-------|
+| 01 | - | - | [View](./day1.md/READme.md) |
 
-- Problem-solving skills
-- Coding consistency
-- Logical thinking
-- Interview preparation
-- DSA pattern recognition
+*(Updated regularly as I continue learning and solving problems)*
 
-This repository will contain all my daily solutions, notes, and learning progress.
+---
 
-🎯 Goals
+## 🛠️ Tools & Languages
 
-✔ Solve DSA questions daily
-✔ Learn patterns instead of memorizing solutions
-✔ Improve coding speed & optimization
-✔ Stay consistent for 65 days
-✔ Prepare for placements & technical interviews
+- Language: *(jo bhi use kar rahi ho — Python/C++/Java)*
+- Platform: *(LeetCode / GeeksforGeeks / HackerRank, jo bhi ho)*
 
-💻 Language Used :
-      c++
-Topics covered : 1. Array basics :  a. Largest element b.second largest  c. check sorted  d. reverse array 
+---
 
+## 🤝 Let's Connect
+
+- LinkedIn: [your-linkedin-link](#)
+- Email: your-email@example.com
+
+---
+
+*"The expert in anything was once a beginner."*
  
 
 

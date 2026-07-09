@@ -28,7 +28,7 @@ one concept, one problem at a time.
 
 | Day | Date | Topic | Notes |
 |-----|------|-------|-------|
-| 01 | - | - | [View](./day1.md/READme.md) |
+| 01 | - | - | [View](day1/READme.md) |
 
 *(Updated regularly as I continue learning and solving problems)*
 

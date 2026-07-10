@@ -28,23 +28,11 @@ one concept, one problem at a time.
 
 | Day | Date | Topic | Notes |
 |-----|------|-------|-------|
-| 01 | - | - | [View](day1/READme.md) |
+| 01 | - | - |  |
 
 *(Updated regularly as I continue learning and solving problems)*
 
----
 
-## 🛠️ Tools & Languages
-
-- Language: *(jo bhi use kar rahi ho — Python/C++/Java)*
-- Platform: *(LeetCode / GeeksforGeeks / HackerRank, jo bhi ho)*
-
----
-
-## 🤝 Let's Connect
-
-- LinkedIn: [your-linkedin-link](#)
-- Email: your-email@example.com
 
 ---
 

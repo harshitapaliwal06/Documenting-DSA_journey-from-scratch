@@ -36,7 +36,7 @@ one concept, one problem at a time.
 
 ---
 
-*"The expert in anything was once a beginner."*
+
  
 
 

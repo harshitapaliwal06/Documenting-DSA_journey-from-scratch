@@ -175,8 +175,9 @@ for (int i = 0; i < n; i++) {
         secondLargest = a[i];
     }
 }
-[optimal slargest](slargest1.cpp)
+
 ```
+**[optimal slargest](slargest1.cpp)**
 
 ### Problem: Check if Array is Sorted
 - Approach: each element before the current one should be less than or equal to it (linear scan)

@@ -26,9 +26,9 @@ one concept, one problem at a time.
 
 ## 📅 Progress Log
 
-| Day | Date | Topic | Notes |
-|-----|------|-------|-------|
-| 01 | - | - |  |
+| Day | Topic | Notes |
+|-----|------|-------|
+| 01 | Arrays |  |  
 
 *(Updated regularly as I continue learning and solving problems)*
 
